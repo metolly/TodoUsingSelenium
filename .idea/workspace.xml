@@ -4,31 +4,145 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecf7023b-453b-46c1-9ce6-ca42435edaa0" name="Changes" comment="" />
+    <list default="true" id="ecf7023b-453b-46c1-9ce6-ca42435edaa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/apis/RegisterApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/apis/RegisterApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/apis/TaskApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/apis/TaskApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/config/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/config/EndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/config/production.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/config/production.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/object/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/object/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/object/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/object/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/NewTodoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/NewTodoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/TodoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/pages/TodoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/TodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/TodoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/loginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/ConfigUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/ConfigUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/CookiesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/CookiesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/PropertiesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/PropertiesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/UserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/utils/UserUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;metolly&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/metolly/TodoApplicationSeleniumProject.git&quot;,
+    &quot;accountId&quot;: &quot;4f4b6067-26e9-4045-af07-1e777c75acd9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ptj2CgQ2itsfBMDy3jw21cunlp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.TodoTest.shouldBeAbleToAddNewToDo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TodoTest.shouldBeAbleToDeleteToDo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.loginTest.ShouldBeAbleToLoginWithEmailAndPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.loginTest.executor&quot;: &quot;Run&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/selenium-to-do&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\selenium-to-do" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.loginTest.ShouldBeAbleToLoginWithEmailAndPassword">
+    <configuration name="TodoTest.shouldBeAbleToAddNewToDo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-to-do" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qacart.todo.testcases.loginTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.TodoTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToAddNewToDo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest.shouldBeAbleToDeleteToDo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-to-do" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qacart.todo.testcases.loginTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.TodoTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToDeleteToDo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginTest.ShouldBeAbleToLoginWithEmailAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-to-do" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qacart.todo.testcases.loginTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.loginTest" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToLoginWithEmailAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.loginTest.ShouldBeAbleToLoginWithEmailAndPassword" />
+        <item itemvalue="TestNG.TodoTest.shouldBeAbleToDeleteToDo" />
+        <item itemvalue="TestNG.TodoTest.shouldBeAbleToAddNewToDo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +153,20 @@
       <updated>1733592058706</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/TodoTest.java</url>
+          <line>49</line>
+          <properties class="com.qacart.todo.testcases.TodoTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
